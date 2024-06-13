@@ -33,7 +33,7 @@
 #### **Steps:**
 
 1. **Download all files:**
-   - Download all .cpp and .h files into the same folder.
+   - Download all .cpp .csv and .h files into the same folder.
 
 2. **Compile the project:**
    - Open your terminal and navigate to the project directory.
